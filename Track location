@@ -1,0 +1,10 @@
+apt update & upgrade 
+pkg install wget 
+gem install lolcat 
+pkg install php
+pkg install toilet
+got clone https://github.com/sparkz-technology/target.git 
+cd target 
+1s 
+chomd +x Target.sh 
+bash Target.sh
